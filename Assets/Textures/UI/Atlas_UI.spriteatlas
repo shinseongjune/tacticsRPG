@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 376895c7b358ac44884bb2620f465e55, type: 3}
+    - {fileID: 2800000, guid: 7e8d464059c0a9d499ffab6276d228e4, type: 3}
+    - {fileID: 2800000, guid: 6ae770fb441ec1c4bb0e3f6d4f798968, type: 3}
+    - {fileID: 2800000, guid: 45ade3ea415f3d8479ebf15d3eb7a43b, type: 3}
+    - {fileID: 2800000, guid: 3b4283327dedbe9488fe2fed2dec165a, type: 3}
+    - {fileID: 2800000, guid: a75e58bbc989fa84d816f14991d058c2, type: 3}
+    - {fileID: 2800000, guid: b11e074e3a019be48a1ae3d7e67aa7eb, type: 3}
+    - {fileID: 2800000, guid: 6c52761b735ee4041b5f039395bdd8a6, type: 3}
+    - {fileID: 2800000, guid: 928d7473b4f3a014b8a56cc8c2947c4d, type: 3}
+    - {fileID: 2800000, guid: 8258a4e98e70b5942a190c7209d76602, type: 3}
+    - {fileID: 2800000, guid: 2416aab80930df74ba674a972fd1df0e, type: 3}
+    - {fileID: 2800000, guid: ab470050048dc6641bfb48fa484245ee, type: 3}
+    totalSpriteSurfaceArea: 86891
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7e8d464059c0a9d499ffab6276d228e4, type: 3}
+  - {fileID: 21300000, guid: ab470050048dc6641bfb48fa484245ee, type: 3}
+  - {fileID: 21300000, guid: 3b4283327dedbe9488fe2fed2dec165a, type: 3}
+  - {fileID: 21300000, guid: 928d7473b4f3a014b8a56cc8c2947c4d, type: 3}
+  - {fileID: 21300000, guid: 376895c7b358ac44884bb2620f465e55, type: 3}
+  - {fileID: 21300000, guid: 2416aab80930df74ba674a972fd1df0e, type: 3}
+  - {fileID: 21300000, guid: 8258a4e98e70b5942a190c7209d76602, type: 3}
+  - {fileID: 21300000, guid: 45ade3ea415f3d8479ebf15d3eb7a43b, type: 3}
+  - {fileID: 21300000, guid: 6c52761b735ee4041b5f039395bdd8a6, type: 3}
+  - {fileID: 21300000, guid: a75e58bbc989fa84d816f14991d058c2, type: 3}
+  - {fileID: 21300000, guid: 6ae770fb441ec1c4bb0e3f6d4f798968, type: 3}
+  - {fileID: 21300000, guid: b11e074e3a019be48a1ae3d7e67aa7eb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ActionNameBacker
+  - RedAttackPanel
+  - Avatar
+  - MenuBulletLocked
+  - AbilityMenu
+  - MoreConversationArrow
+  - MenuBulletSelected
+  - AttackArrowFill
+  - MenuBullet
+  - BlueAttackPanel
+  - AttackArrowBacker
+  - ConversationPanel
+  m_RenderDataMap: {}
+  m_Tag: Atlas_UI
+  m_IsVariant: 0
