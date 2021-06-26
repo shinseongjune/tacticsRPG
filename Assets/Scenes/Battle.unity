@@ -634,7 +634,8 @@ MonoBehaviour:
     x: 0
     y: 0
   heroPrefab: {fileID: 8428389333546763301, guid: 69f8d6c60f94bd04d8ad2fd1ed6ea709, type: 3}
-  currentUnit: {fileID: 0}
+  abilityMenuPanelController: {fileID: 0}
+  units: []
 --- !u!4 &1988743067
 Transform:
   m_ObjectHideFlags: 0
